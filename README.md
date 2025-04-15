@@ -13,8 +13,8 @@ Each project is crafted to sharpen skills, test creativity, and have some fun wi
 | 🔢 | Project Name                  | Description |
 |----|-------------------------------|-------------|
 | 1️⃣ | **Dicee Game**            | A fun 2-player dice game where each player rolls a virtual die 🎲, and the one with the higher number wins the round! |
-<!-- | 2️⃣ | **Calculator**                | Perform basic calculations with a minimal and responsive interface. |
-| 3️⃣ | **Weather App**               | Get real-time weather info using an API (with fancy icons 🌦️). |
+| 2️⃣ | **Drum KIt**                | A fun and interactive drum kit that plays different sounds when you click buttons or press keys.🥁 |
+<!-- | 3️⃣ | **Weather App**               | Get real-time weather info using an API (with fancy icons 🌦️). |
 | 4️⃣ | **Portfolio Website**         | A responsive personal portfolio template with smooth scroll and animations. |
 | 5️⃣ | **Quiz App**                  | Interactive MCQ quiz with a live score tracker. |
 | 6️⃣ | **Drum Kit**                  | Hit those keys 🥁 and jam out with sound effects. |
@@ -26,7 +26,7 @@ Each project is crafted to sharpen skills, test creativity, and have some fun wi
 
 - 🧱 HTML5  
 - 🎨 CSS3  
-- ⚙️ JavaScript (Vanilla)  
+- ⚙️ JavaScript  
 
 ---
 
